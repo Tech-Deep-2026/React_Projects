@@ -1,2 +1,2 @@
 # React_Projects
-To keep all the practice code around react
+This is my first GIT Repository. Author - Dipali Shrawane
