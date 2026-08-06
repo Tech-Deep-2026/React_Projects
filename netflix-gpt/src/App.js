@@ -1,9 +1,7 @@
+import Body from "./Components/Body";
+
 function App() {
-  return (
-    <div className="text-xl">
-       Namaste Everyone, lets build our next-gpt App.
-    </div>
-  );
+  return <Body/>;
 }
 
 export default App;
